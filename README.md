@@ -7,3 +7,5 @@ Push to this repository, Also add branch name with your name.
 ![Q1-2021 Hiring - Full Stack Dev- 1of3](https://user-images.githubusercontent.com/80752685/111294654-8c1b7180-8670-11eb-88e2-7624641e7d36.jpeg)
 ### Must provide Outputs
  Outputs should be displayed in the preview section [README.md] 
+##Deploy
+Deploy the code in Netlify[https://www.netlify.com/] and submit the reference url in README.md section.
