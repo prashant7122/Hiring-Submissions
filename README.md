@@ -8,4 +8,4 @@ Push to this repository, Also add branch name with your name.
 ### Must provide Outputs
  Outputs should be displayed in the preview section [README.md] 
 ##Deploy
-Deploy the code in Netlify[https://www.netlify.com/] and submit the reference url in README.md section.
+Deploy the code in [Netlify](https://www.netlify.com/) and submit the reference url in README.md section.
