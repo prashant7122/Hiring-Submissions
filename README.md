@@ -5,3 +5,5 @@ Based on your submission, we feel you have the potential to succeed in the next 
 Please share it by 23th of this month  11:59 PM, Based on this task, you will be shortlisted for the interview.
 Push to this repository, Also add branch name with your name.
 ![Q1-2021 Hiring - Full Stack Dev- 1of3](https://user-images.githubusercontent.com/80752685/111294654-8c1b7180-8670-11eb-88e2-7624641e7d36.jpeg)
+### Must provide Outputs
+ Outputs should be displayed in the preview section [readme.md] 
