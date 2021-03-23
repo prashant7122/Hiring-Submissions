@@ -1,0 +1,284 @@
+.monitor-main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container h3{
+    margin-left: 40px;
+}
+.monitor-main .card-1{
+    height: 140px;
+    width: 240px;
+    border-radius: 15px;
+    position: relative;
+    margin: 12px;
+}
+.monitor-main .card-1 button{
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background: #685d5dc9;
+    outline: none;
+}
+.monitor-main .card-1 .card-footer-1{
+    height: 50px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.monitor-main .card-1{
+    background-image: url("https://i.pinimg.com/736x/81/e0/73/81e073dbdaf10ecc17cdc58220b40dea.jpg");
+    background-size: 240px 160px;
+}
+.monitor-main .card-1 .card-footer-1 .icon-1 .circle-icon {
+	background: white;
+	padding: 10px;
+	border-radius: 30%;
+}
+.monitor-main .card-1 .card-footer-1 .icon-1 .fa-2x{
+    font-size: 1.5em;
+    color: rgb(233, 12, 185);
+}
+.monitor-main .card-1 .card-footer-1 .content-1{
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+}
+.monitor-main .card-1 .card-footer-1 :nth-child(1){
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 30%;
+}
+.monitor-main .card-1 .card-footer-1 :nth-child(2){
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.monitor-main .card-1 .card-footer-1 :nth-child(2) :nth-child(1){
+    padding: 15px;
+    padding-left: 0px;
+    background:none;
+}
+.monitor-main .card-1 .card-footer-1 :nth-child(2) :nth-child(2){
+    padding: 5px;
+    padding-left: 0px;
+}
+
+
+.monitor-main .card-2{
+    height: 140px;
+    width: 240px;
+    border-radius: 15px;
+    position: relative;
+    margin: 12px;
+}
+.monitor-main .card-2 button{
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background: #685d5dc9;
+    outline: none;
+}
+.monitor-main .card-2 .card-footer-2{
+    height: 50px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.monitor-main .card-2{
+    background-image: url("https://t3.ftcdn.net/jpg/02/00/37/16/240_F_200371645_StjYXNDOtzeG0CosbVBdga282ZXH1OgJ.jpg");
+    background-size: 240px 100px;
+}
+.monitor-main .card-2 .card-footer-2 .icon-2 .circle-icon {
+	background: white;
+	padding: 10px;
+	border-radius: 30%;
+}
+.monitor-main .card-2 .card-footer-2 .icon-2 .fa-2x{
+    font-size: 1.5em;
+    color: rgb(8, 145, 8);
+}
+.monitor-main .card-2 .card-footer-2 .content-2{
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+}
+.monitor-main .card-2 .card-footer-2 :nth-child(1){
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 30%;
+}
+.monitor-main .card-2 .card-footer-2 :nth-child(2){
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.monitor-main .card-2 .card-footer-2 :nth-child(2) :nth-child(1){
+    padding: 15px;
+    padding-left: 0px;
+    background:none;
+}
+.monitor-main .card-2 .card-footer-2 :nth-child(2) :nth-child(2){
+    padding: 5px;
+    padding-left: 0px;
+}
+
+
+.monitor-main .card-3{
+    height: 140px;
+    width: 240px;
+    border-radius: 15px;
+    position: relative;
+    margin: 12px;
+}
+.monitor-main .card-3 button{
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background: #685d5dc9;
+    outline: none;
+}
+.monitor-main .card-3 .card-footer-3{
+    height: 50px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.monitor-main .card-3{
+    background-image: url("https://i.pinimg.com/originals/f3/92/45/f39245b82f872ceb04c21bef89a05390.jpg");
+    background-size: 240px 160px;
+}
+.monitor-main .card-3 .card-footer-3 .icon-3 .circle-icon {
+	background: white;
+	padding: 10px;
+	border-radius: 30%;
+}
+.monitor-main .card-3 .card-footer-3 .icon-3 .fa-2x{
+    font-size: 1.5em;
+    color: rgb(235, 116, 4);
+}
+.monitor-main .card-3 .card-footer-3 .content-3{
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+}
+.monitor-main .card-3 .card-footer-3 :nth-child(1){
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 30%;
+}
+.monitor-main .card-3 .card-footer-3 :nth-child(2){
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.monitor-main .card-3 .card-footer-3 :nth-child(2) :nth-child(1){
+    padding: 15px;
+    padding-left: 0px;
+    background:none;
+}
+.monitor-main .card-3 .card-footer-3 :nth-child(2) :nth-child(2){
+    padding: 5px;
+    padding-left: 0px;
+}
+
+
+.monitor-main .card-4{
+    height: 140px;
+    width: 240px;
+    border-radius: 15px;
+    position: relative;
+    margin: 12px;
+}
+.monitor-main .card-4 button{
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background: #685d5dc9;
+    outline: none;
+}
+.monitor-main .card-4 .card-footer-4{
+    height: 50px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.monitor-main .card-4{
+    background-image: url("https://thumbs.dreamstime.com/b/cute-little-girl-drinking-juice-color-background-110670038.jpg");
+    background-size: 240px 100px;
+}
+.monitor-main .card-4 .card-footer-4 .icon-4 .circle-icon {
+	background: white;
+	padding: 10px;
+	border-radius: 30%;
+}
+.monitor-main .card-4 .card-footer-4 .icon-4 .fa-2x{
+    font-size: 1.5em;
+    color:aqua;
+}
+.monitor-main .card-4 .card-footer-4 .content-4{
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+}
+.monitor-main .card-4 .card-footer-4 :nth-child(1){
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 30%;
+}
+.monitor-main .card-4 .card-footer-4 :nth-child(2){
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.monitor-main .card-4 .card-footer-4 :nth-child(2) :nth-child(1){
+    padding: 15px;
+    padding-left: 0px;
+    background:none;
+}
+.monitor-main .card-4 .card-footer-4 :nth-child(2) :nth-child(2){
+    padding: 5px;
+    padding-left: 0px;
+}

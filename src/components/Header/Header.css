@@ -1,0 +1,82 @@
+.header {
+  margin-left: 220px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.search-box {
+  width: 200px;
+}
+.notification{
+  margin-left: 50vw;
+}
+.notification a {
+  padding: 6px 8px 6px 16px;
+  size: 20px;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  display: block;
+  margin: 0px 16px;
+}
+
+.notification a i {
+  font-size: 30px;
+  margin-right: 8px;
+  color: grey;
+}
+.notification a i:hover {
+	color: green;
+}
+.search-box input[type="text"] {
+  margin-left: 16px;
+  padding: 8px;
+  border-radius: 15px;
+  margin-right: 16px;
+  font-size: 14px;
+  width: 40vw;
+  background-color: rgb(228, 238, 241);
+  outline: none;
+  border: none;
+}
+.avatarLayout{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.avatarImage {
+  vertical-align: middle;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 4px solid white;
+}
+.profile a{
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  display: block;
+  margin: 0px 16px;
+}
+.profile a:hover {
+	color: rgb(248, 29, 150);
+}
+.avatarContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: #34e89e;
+  background: -webkit-linear-gradient(to right, #0f3443, #34e89e);
+  background: linear-gradient(to right, #0f3443, #34e89e);
+}
+@media screen and (max-width: 40vw) {
+  .header{
+    padding-top: 15px;
+  }
+}

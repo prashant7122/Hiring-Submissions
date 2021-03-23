@@ -1,0 +1,15 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.main {
+  background-color: rgb(186 238 255 / 33%);
+  min-height: 108vh;
+  border-radius: 15px;
+  margin-left: 220px;
+}
+
+body{
+  font-family: 'Lexend', sans-serif;
+}
